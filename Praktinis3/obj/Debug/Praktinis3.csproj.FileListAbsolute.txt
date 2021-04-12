@@ -1,0 +1,10 @@
+C:\Users\Tautvydas\Desktop\VIKO_InformacinisSaugumas\Praktinis3\bin\Debug\Praktinis3.exe.config
+C:\Users\Tautvydas\Desktop\VIKO_InformacinisSaugumas\Praktinis3\bin\Debug\Praktinis3.exe
+C:\Users\Tautvydas\Desktop\VIKO_InformacinisSaugumas\Praktinis3\bin\Debug\Praktinis3.pdb
+C:\Users\Tautvydas\Desktop\VIKO_InformacinisSaugumas\Praktinis3\obj\Debug\Praktinis3.csprojAssemblyReference.cache
+C:\Users\Tautvydas\Desktop\VIKO_InformacinisSaugumas\Praktinis3\obj\Debug\Praktinis3.Form1.resources
+C:\Users\Tautvydas\Desktop\VIKO_InformacinisSaugumas\Praktinis3\obj\Debug\Praktinis3.Properties.Resources.resources
+C:\Users\Tautvydas\Desktop\VIKO_InformacinisSaugumas\Praktinis3\obj\Debug\Praktinis3.csproj.GenerateResource.cache
+C:\Users\Tautvydas\Desktop\VIKO_InformacinisSaugumas\Praktinis3\obj\Debug\Praktinis3.csproj.CoreCompileInputs.cache
+C:\Users\Tautvydas\Desktop\VIKO_InformacinisSaugumas\Praktinis3\obj\Debug\Praktinis3.exe
+C:\Users\Tautvydas\Desktop\VIKO_InformacinisSaugumas\Praktinis3\obj\Debug\Praktinis3.pdb
